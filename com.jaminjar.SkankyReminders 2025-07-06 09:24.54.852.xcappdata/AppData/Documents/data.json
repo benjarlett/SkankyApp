@@ -1,0 +1,39 @@
+{
+  "setlists" : [
+    {
+      "loopIds" : [
+
+      ],
+      "id" : "EB47D45D-9642-48C6-8DF7-9233CED5B27D",
+      "name" : "August"
+    }
+  ],
+  "bands" : [
+    {
+      "id" : "BB209AA0-1852-4DED-B501-6F3497A9B3FD",
+      "name" : "Israel Vibration"
+    },
+    {
+      "id" : "2E6FF94D-6D18-4084-8E04-679AD73C1E29",
+      "name" : "Congos"
+    },
+    {
+      "id" : "FCAF962E-7C5D-49F8-8CFB-7FC22FF7774A",
+      "name" : "Unknown"
+    }
+  ],
+  "loops" : [
+    {
+      "transposeSemitones" : 0,
+      "filepath" : "\/private\/var\/mobile\/Containers\/Data\/Application\/B7E1EAF0-4A17-4E64-BB8B-04AE18D516FA\/Documents\/01 Jah A Guh Raid.mp3",
+      "tuneCents" : 0,
+      "setlists" : [
+
+      ],
+      "id" : "E59CB459-A332-407C-88B3-7FA20517B5ED",
+      "looping" : false,
+      "band" : "Congos",
+      "title" : "01 Jah A Guh Raid"
+    }
+  ]
+}

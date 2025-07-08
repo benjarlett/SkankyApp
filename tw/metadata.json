@@ -1,0 +1,5 @@
+{
+  "name": "SkankyReminders",
+  "description": "An application to manage and play audio loops for musical practice and performance. Upload audio files, organize them into setlists, and play them back with pitch and tuning adjustments.",
+  "requestFramePermissions": []
+}

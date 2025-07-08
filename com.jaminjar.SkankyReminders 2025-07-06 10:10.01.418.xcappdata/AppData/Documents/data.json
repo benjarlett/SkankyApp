@@ -1,0 +1,51 @@
+{
+  "loops" : [
+    {
+      "setlists" : [
+
+      ],
+      "band" : "Unknown",
+      "title" : "01 Jah A Guh Raid",
+      "id" : "C747F454-34B1-43F6-9C98-EF2E10D635E2",
+      "transposeSemitones" : 0,
+      "tuneCents" : 0,
+      "looping" : false,
+      "filepath" : "01 Jah A Guh Raid.mp3"
+    },
+    {
+      "setlists" : [
+
+      ],
+      "band" : "Unknown",
+      "title" : "05 Some a thief",
+      "id" : "44315849-3EA8-45EC-AD48-77EA658B0C2E",
+      "transposeSemitones" : 0,
+      "tuneCents" : 0,
+      "looping" : false,
+      "filepath" : "05 Some a thief.mp3"
+    }
+  ],
+  "setlists" : [
+    {
+      "id" : "EB47D45D-9642-48C6-8DF7-9233CED5B27D",
+      "name" : "August",
+      "loopIds" : [
+
+      ]
+    }
+  ],
+  "bands" : [
+    {
+      "id" : "BB209AA0-1852-4DED-B501-6F3497A9B3FD",
+      "name" : "Israel Vibration"
+    },
+    {
+      "id" : "2E6FF94D-6D18-4084-8E04-679AD73C1E29",
+      "name" : "Congos"
+    },
+    {
+      "id" : "FCAF962E-7C5D-49F8-8CFB-7FC22FF7774A",
+      "name" : "Unknown"
+    }
+  ]
+}
